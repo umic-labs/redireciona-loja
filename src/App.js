@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 function RedirectToExternalURL() {
   useEffect(() => {
-    window.location.href = 'https://umic.mercadoshops.com.br/';
+    window.location.href = 'https://umicbrasil.transforme.tech/evento/comic25';
   }, []);
 
   return null;
